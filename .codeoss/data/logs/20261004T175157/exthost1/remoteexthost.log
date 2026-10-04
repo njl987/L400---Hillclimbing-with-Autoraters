@@ -1,0 +1,37 @@
+2026-10-04 17:52:04.607 [info] Extension host with pid 1642 started
+2026-10-04 17:52:04.627 [info] Lock '/home/student_04_08bdbf8cf191/.codeoss/data/User/workspaceStorage/74f24cd0/vscode.lock': Lock acquired.
+2026-10-04 17:52:04.733 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-10-04 17:52:04.736 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-10-04 17:52:04.737 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2026-10-04 17:52:06.304 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-10-04 17:52:06.358 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:pip-requirements'
+2026-10-04 17:52:06.890 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-10-04 17:52:06.891 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-10-04 17:52:07.031 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-10-04 17:52:07.031 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-10-04 17:52:07.032 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-10-04 17:52:07.531 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onCommand:cloudshell.authorize'
+2026-10-04 17:52:07.574 [info] Eager extensions activated
+2026-10-04 17:52:07.574 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-10-04 17:52:07.575 [info] ExtensionService#_doActivateExtension google.cloud-developer-environments-auth, startup: false, activationEvent: 'onStartupFinished'
+2026-10-04 17:52:07.576 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-10-04 17:52:07.577 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-10-04 17:52:07.577 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-10-04 17:52:07.578 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-10-04 17:52:08.833 [info] ExtensionService#_doActivateExtension googlecloudtools.datacloud, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-10-04 17:52:10.945 [error] CodeExpectedError: Unable to write to User Settings because cloudShell.cloudShell.showCloudCodeInstallHint is not a registered configuration.
+    at q5t.z (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:6793)
+    at q5t.F (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:9255)
+    at q5t.o (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:3874)
+    at Object.factory (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:3774)
+    at Sy.j (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:30:76318)
+    at https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:30:76230
+    at new Promise (<anonymous>)
+    at Sy.queue (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:30:76172)
+    at q5t.writeConfiguration (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:3743)
+    at Mes.Hb (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:42899)
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:30:82093)
+    at async Mes.updateValue (https://970-cs-ccce035b-f79a-40d7-8448-6c55f85f02df.ql-asia-southeast1-glxv.cloudshell.dev/cde-ff053b5068e41553b5a7a7f266b9ce7f6b2afeb0/static/out/vs/code/browser/workbench/workbench.js:4657:31245)
+2026-10-04 17:52:17.227 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2026-10-04 17:52:21.143 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'

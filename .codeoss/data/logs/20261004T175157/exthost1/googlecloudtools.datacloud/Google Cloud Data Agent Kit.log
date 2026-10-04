@@ -1,0 +1,117 @@
+2026-10-04 17:52:17.034 [info] [OnboardingStatus] Updating context key 'gDataCloud.alreadyOnboarded' to false
+2026-10-04 17:52:17.034 [info] Getting gcloud config internal...
+2026-10-04 17:52:17.034 [info] Checking for gcloud binary path...
+2026-10-04 17:52:17.034 [info] Executing: which gcloud
+2026-10-04 17:52:17.034 [info] Getting gcloud config internal...
+2026-10-04 17:52:17.034 [info] Checking for gcloud binary path...
+2026-10-04 17:52:17.034 [info] Executing: which gcloud
+2026-10-04 17:52:17.034 [info] Activating bigquery
+2026-10-04 17:52:17.034 [info] ConversationalAnalyticsPlugin activated
+2026-10-04 17:52:17.034 [info] ConversationalAnalyticsPlugin: activate finished
+2026-10-04 17:52:17.034 [info] Activating Databases
+2026-10-04 17:52:17.034 [info] Activating Catalog Feature
+2026-10-04 17:52:17.034 [info] Registering Dataplex Project adapter unconditionally.
+2026-10-04 17:52:17.034 [info] Bigtable adapters registered.
+2026-10-04 17:52:17.034 [info] Activating dataplex universal catalog
+2026-10-04 17:52:17.034 [info] Activating dataproc
+2026-10-04 17:52:17.034 [info] Activating spark resource tree
+2026-10-04 17:52:17.034 [info] SparkMonitorPlugin: Activating...
+2026-10-04 17:52:17.034 [info] SparkMonitorPlugin: State change - experiment: true, setting: true, overall: true
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] Profile antigravity-ide is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] Profile antigravity is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] Profile jetski is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] Profile cursor is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] Profile copilot is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.153Z] Profile gemini-code-assist is active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] Profile antigravity-ide is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] Profile antigravity is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] Profile jetski is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] Profile cursor is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] Profile copilot is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.154Z] Profile gemini-code-assist is active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.155Z] Activating Agent Skill Installer
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile antigravity-ide is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile antigravity is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile jetski is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile cursor is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile copilot is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile gemini-code-assist is active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile antigravity-ide is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile antigravity is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile jetski is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile cursor is NOT active
+2026-10-04 17:52:17.034 [info] [2026-10-04T17:52:11.168Z] Profile copilot is NOT active
+2026-10-04 17:52:17.036 [info] [2026-10-04T17:52:11.168Z] Profile gemini-code-assist is active
+2026-10-04 17:52:17.036 [info] Executing: gcloud config config-helper --format json
+2026-10-04 17:52:17.036 [info] Executing: gcloud config config-helper --format json
+2026-10-04 17:52:17.036 [info] [MCP Registry] Listening on socket: /tmp/datacloud-mcp-visualization-codeossforcloudshell.sock
+2026-10-04 17:52:17.036 [info] [MCP Registry] Server 'visualization' listening on IPC socket: /tmp/datacloud-mcp-visualization-codeossforcloudshell.sock
+2026-10-04 17:52:17.036 [info] [MCP Registry] Listening on socket: /tmp/datacloud-mcp-dataAgentKit-codeossforcloudshell.sock
+2026-10-04 17:52:17.036 [info] [MCP Registry] Server 'dataAgentKit' listening on IPC socket: /tmp/datacloud-mcp-dataAgentKit-codeossforcloudshell.sock
+2026-10-04 17:52:17.036 [info] [MCP Registry] Listening on socket: /tmp/datacloud-mcp-notebooks-codeossforcloudshell.sock
+2026-10-04 17:52:17.036 [info] [MCP Registry] Server 'notebooks' listening on IPC socket: /tmp/datacloud-mcp-notebooks-codeossforcloudshell.sock
+2026-10-04 17:52:17.036 [info] [OnboardingPlugin] Cloud Code extension or Cloud Shell/Workstations detected. Skipping automatic onboarding.
+2026-10-04 17:52:17.036 [info] MCP config plugin: MCP config key: mcpServers
+2026-10-04 17:52:17.201 [info] Installed static notebooks and visualization MCP servers configuration in /home/student_04_08bdbf8cf191/.gemini/settings.json
+2026-10-04 17:52:17.210 [info] MCP config plugin: ideType: 6
+2026-10-04 17:52:21.750 [info] SparkMonitorPlugin: Wrote filter config file with value: true
+2026-10-04 17:52:21.768 [info] MCP config plugin: MCP config key: mcpServers
+2026-10-04 17:52:22.030 [info] Applying local runtime experiment overrides: [{"name":"DatacloudDataplex__enable_bigtable_adapter","boolValue":true}]
+2026-10-04 17:52:23.077 [info] Data Product adapters registered.
+2026-10-04 17:52:23.078 [info] SparkMonitorPlugin: State change - experiment: true, setting: true, overall: true
+2026-10-04 17:52:23.078 [info] MCP config plugin: ideType: 6
+2026-10-04 17:52:23.362 [info] MCP config plugin: MCP config key: mcpServers
+2026-10-04 17:52:23.512 [info] SparkMonitorPlugin: Wrote filter config file with value: true
+2026-10-04 17:52:27.553 [info] [2026-10-04T17:52:27.552Z] Checking skills for Gemini Code Assist in /home/student_04_08bdbf8cf191/.gemini/skills. Force=false
+2026-10-04 17:52:27.561 [info] [2026-10-04T17:52:27.561Z] No previous manifest found or it was invalid.
+2026-10-04 17:52:27.576 [info] [2026-10-04T17:52:27.576Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.608Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/accidental-data-loss-prevention
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.609Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/bigquery-data-transfer-service
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.609Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/bigquery-sql
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.609Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/building-data-apps
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.609Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/data-autocleaning
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.609Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/dataform-bigquery
+2026-10-04 17:52:27.609 [info] [2026-10-04T17:52:27.609Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/dbt-bigquery
+2026-10-04 17:52:27.610 [info] [2026-10-04T17:52:27.610Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/discovering-gcp-data-assets
+2026-10-04 17:52:27.610 [info] [2026-10-04T17:52:27.610Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/enforcing-resource-attribution
+2026-10-04 17:52:27.610 [info] [2026-10-04T17:52:27.610Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/gcp-dataflow
+2026-10-04 17:52:27.610 [info] [2026-10-04T17:52:27.610Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/gcp-data-pipelines
+2026-10-04 17:52:27.611 [info] [2026-10-04T17:52:27.611Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/gcp-pipeline-resource-provisioning
+2026-10-04 17:52:27.611 [info] [2026-10-04T17:52:27.611Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/gcp-spark
+2026-10-04 17:52:27.611 [info] [2026-10-04T17:52:27.611Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/gcp-pipeline-orchestration
+2026-10-04 17:52:27.611 [info] [2026-10-04T17:52:27.611Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/gcp-spark-troubleshooting
+2026-10-04 17:52:27.612 [info] [2026-10-04T17:52:27.612Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/google-cloud-auth-verification
+2026-10-04 17:52:27.612 [info] [2026-10-04T17:52:27.612Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/managing-python-dependencies
+2026-10-04 17:52:27.612 [info] [2026-10-04T17:52:27.612Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/ml-best-practices
+2026-10-04 17:52:27.612 [info] [2026-10-04T17:52:27.612Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/notebook-guidance
+2026-10-04 17:52:27.612 [info] [2026-10-04T17:52:27.612Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/schema-mapping
+2026-10-04 17:52:27.612 [info] [2026-10-04T17:52:27.612Z] Ensured destination directory exists: /home/student_04_08bdbf8cf191/.gemini/skills/skill-repair
+2026-10-04 17:52:27.775 [info] [2026-10-04T17:52:27.775Z] Copied skill dataform-bigquery to /home/student_04_08bdbf8cf191/.gemini/skills/dataform-bigquery
+2026-10-04 17:52:27.776 [info] [2026-10-04T17:52:27.776Z] Copied skill accidental-data-loss-prevention to /home/student_04_08bdbf8cf191/.gemini/skills/accidental-data-loss-prevention
+2026-10-04 17:52:27.779 [info] [2026-10-04T17:52:27.777Z] Copied skill dbt-bigquery to /home/student_04_08bdbf8cf191/.gemini/skills/dbt-bigquery
+2026-10-04 17:52:27.780 [info] [2026-10-04T17:52:27.780Z] Copied skill discovering-gcp-data-assets to /home/student_04_08bdbf8cf191/.gemini/skills/discovering-gcp-data-assets
+2026-10-04 17:52:27.780 [info] [2026-10-04T17:52:27.780Z] Copied skill enforcing-resource-attribution to /home/student_04_08bdbf8cf191/.gemini/skills/enforcing-resource-attribution
+2026-10-04 17:52:27.783 [info] [2026-10-04T17:52:27.783Z] Copied skill gcp-data-pipelines to /home/student_04_08bdbf8cf191/.gemini/skills/gcp-data-pipelines
+2026-10-04 17:52:27.784 [info] [2026-10-04T17:52:27.784Z] Copied skill managing-python-dependencies to /home/student_04_08bdbf8cf191/.gemini/skills/managing-python-dependencies
+2026-10-04 17:52:27.785 [info] [2026-10-04T17:52:27.785Z] Copied skill google-cloud-auth-verification to /home/student_04_08bdbf8cf191/.gemini/skills/google-cloud-auth-verification
+2026-10-04 17:52:27.786 [info] [2026-10-04T17:52:27.785Z] Copied skill ml-best-practices to /home/student_04_08bdbf8cf191/.gemini/skills/ml-best-practices
+2026-10-04 17:52:27.787 [info] [2026-10-04T17:52:27.787Z] Copied skill notebook-guidance to /home/student_04_08bdbf8cf191/.gemini/skills/notebook-guidance
+2026-10-04 17:52:27.787 [info] [2026-10-04T17:52:27.787Z] Copied skill skill-repair to /home/student_04_08bdbf8cf191/.gemini/skills/skill-repair
+2026-10-04 17:52:27.788 [info] [2026-10-04T17:52:27.788Z] Copied skill schema-mapping to /home/student_04_08bdbf8cf191/.gemini/skills/schema-mapping
+2026-10-04 17:52:27.792 [info] [2026-10-04T17:52:27.792Z] Copied skill bigquery-sql to /home/student_04_08bdbf8cf191/.gemini/skills/bigquery-sql
+2026-10-04 17:52:27.813 [info] [2026-10-04T17:52:27.813Z] Copied skill gcp-pipeline-resource-provisioning to /home/student_04_08bdbf8cf191/.gemini/skills/gcp-pipeline-resource-provisioning
+2026-10-04 17:52:27.814 [info] [2026-10-04T17:52:27.814Z] Copied skill data-autocleaning to /home/student_04_08bdbf8cf191/.gemini/skills/data-autocleaning
+2026-10-04 17:52:27.815 [info] [2026-10-04T17:52:27.815Z] Copied skill bigquery-data-transfer-service to /home/student_04_08bdbf8cf191/.gemini/skills/bigquery-data-transfer-service
+2026-10-04 17:52:27.844 [info] [2026-10-04T17:52:27.844Z] Copied skill gcp-spark to /home/student_04_08bdbf8cf191/.gemini/skills/gcp-spark
+2026-10-04 17:52:27.854 [info] [2026-10-04T17:52:27.854Z] Copied skill gcp-pipeline-orchestration to /home/student_04_08bdbf8cf191/.gemini/skills/gcp-pipeline-orchestration
+2026-10-04 17:52:27.854 [info] [2026-10-04T17:52:27.854Z] Copied skill gcp-spark-troubleshooting to /home/student_04_08bdbf8cf191/.gemini/skills/gcp-spark-troubleshooting
+2026-10-04 17:52:27.855 [info] [2026-10-04T17:52:27.855Z] Copied skill building-data-apps to /home/student_04_08bdbf8cf191/.gemini/skills/building-data-apps
+2026-10-04 17:52:27.859 [info] [2026-10-04T17:52:27.859Z] Copied skill gcp-dataflow to /home/student_04_08bdbf8cf191/.gemini/skills/gcp-dataflow
+2026-10-04 17:52:27.860 [info] [2026-10-04T17:52:27.860Z] Finished copying skills to /home/student_04_08bdbf8cf191/.gemini/skills. Updated 21 skills.
+2026-10-04 17:52:27.879 [info] [2026-10-04T17:52:27.879Z] Installation completed. Manifest updated.
+2026-10-04 17:52:27.881 [info] [2026-10-04T17:52:27.880Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+2026-10-04 17:52:28.001 [info] [2026-10-04T17:52:28.001Z] Hook plugin for gemini-code-assist installed successfully to /home/student_04_08bdbf8cf191/.gemini/config/plugins/googlecloudtools.datacloud_telemetry
